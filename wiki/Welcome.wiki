@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary Description of this project
 
 = Introduction =
 Simple and light weight chrome plugin to see the actual exchange rate offered by Nepal Rastra Bank between Nepalese currency and major international currencies.
