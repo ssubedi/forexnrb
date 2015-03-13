@@ -1,0 +1,24 @@
+# Introduction #
+Simple and light weight chrome plugin to see the actual exchange rate offered by Nepal Rastra Bank between Nepalese currency and major international currencies.
+
+# Details #
+
+In addition to giving the most current exchange rate, this extension also shows the exchange rate trends in graph. You can choose your currency to convert from and also the period of time, which can be 7day, 15day, 30day......
+
+These are the major international currencies supported by Nepal Rastra Bank.
+
+  * U.S. dollar
+  * European euro
+  * UK pound sterling
+  * Swiss franc
+  * Australian dollar
+  * Canadian dollar
+  * Singapore dollar
+  * Japanese yen
+  * Chinese Renminbi (Yuan)
+  * Saudi Arabian Riyal
+  * Qatari Riyal
+  * Thai Baht
+  * UAE Dirham
+  * Malaysian Ringgit
+  * South Korean Won
